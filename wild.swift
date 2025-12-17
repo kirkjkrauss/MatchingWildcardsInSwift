@@ -1,7 +1,7 @@
 // Swift testcases for matching wildcards.
 //
 // Copyright 2025 Kirk J Krauss.  This is a Derivative Work based on
-// material that is copyright 2018 IBM Corporation and available at
+// material that is copyright 2025 Kirk J Krauss and available at
 //
 //	https://developforperformance.com/MatchingWildcardsInRust.html
 //
