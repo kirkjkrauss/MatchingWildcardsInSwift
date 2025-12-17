@@ -1,7 +1,7 @@
 // UTF-8-ready Swift routines for matching wildcards.
 //
 // Copyright 2025 Kirk J Krauss.  This is a Derivative Work based on 
-// material that is copyright 2025 Kirk J Krauss and available at
+// material that is copyright 2018 IBM Corporation and available at
 //
 //     https://developforperformance.com/MatchingWildcards_AnImprovedAlgorithmForBigData.html
 // 
@@ -455,3 +455,4 @@ func FastWildCaseCompare(strWild: String /* may have wildcards */,
 		iTame = strTame.unicodeScalars.index(after: iTame)
     } while true
 }
+
